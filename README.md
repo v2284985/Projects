@@ -14,9 +14,9 @@ A Python tool to scan websites for exposed `.git` directories and files. This to
 
 ---
 ## Author Information
-- **Author**: Ved Kumar
-- **Email**: devkumarmahto204@outlook.com
-- **GitHub**: [devkumar-swipe](https://github.com/devkumar-swipe)
+- **Author**: Vikas 
+- **Email**: v2284985@gmail.com
+- **GitHub**:https://github.com/v2284985/
 - **Tool Version**: 1.0.0
 
 ---
